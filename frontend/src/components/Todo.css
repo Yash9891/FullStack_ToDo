@@ -1,0 +1,9 @@
+.todo{
+    display: flex;
+
+}
+.icons{
+    cursor: pointer;
+    margin-left: 20px;
+    display: flex;
+}
